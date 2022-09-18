@@ -1,4 +1,14 @@
-### Hi there 😀
+### Hi there
+<div id="header" align="left">
+
+  <img src="https://user-images.githubusercontent.com/113405820/190892146-4457b423-0eff-40b1-8b80-2f681597b148.png" width="50"/>
+
+</div>
+
+
+
+
+
 
 <!--
 
@@ -16,6 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <div id="header" align="center">
 
   <img src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=6c09b952bd5179e39aa753f983be0c8f8cf6d4049c71dab0&rid=giphy.gif&ct=g" width="250"/>
