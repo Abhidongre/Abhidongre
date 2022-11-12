@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me **abhidongre2004@gmail.com**
 -----------------------------------------------------------------------------------------------------------------------
 <h3 align="left">Badges:</h3>
-<p align="left"><a href="https://holopin.me/abhidongre"><img src="https://holopin.me/abhidongre"width=60% height="150"/>
+<p align="left"><a href="https://holopin.me/abhidongre"><img src="https://holopin.me/abhidongre"width=70% height="150"/>
 
 </a></p>
   
