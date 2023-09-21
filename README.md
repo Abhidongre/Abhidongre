@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 ## Badges:
-<p align="left"><a href="https://holopin.me/abhidongre"><img src="https://holopin.me/abhidongre"width=70% height="10"/>
+<p align="left"><a href="https://holopin.me/abhidongre"><img src="https://holopin.me/abhidongre"width=70% height="160"/>
 
 </a></p>
 
