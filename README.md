@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhidongre&label=Profile%20views&color=0e75b6&style=flat" alt="abhidongre" /> </p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Dongre</h1>
-<h3 align="center">A passionate Python Programmer from India</h3>
+<h3 align="center">I am Full Stack Developer from India</h3>
 
 
  ## 💫 About Me:
